@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/nazaninghazi/Desktop/jdbc-postgresql.jar",
+        "/Users/nazaninghazi/Desktop/jackson-databind-2.14.1.jar",
+        "/Users/nazaninghazi/Desktop/json-simple-1.1.jar"
+    ]
+}
