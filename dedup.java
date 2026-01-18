@@ -14,7 +14,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 
-public class dedup {
+private class dedup {
    public static void main(String args[]) {
       String host="3.235.170.15";
       String port = "5432";
