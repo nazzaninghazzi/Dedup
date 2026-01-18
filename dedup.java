@@ -13,8 +13,10 @@ import java.sql.DriverManager;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-
-private class dedup {
+// comment
+// comment 2
+// comment 3
+public class dedup {
    public static void main(String args[]) {
       String host="3.235.170.15";
       String port = "5432";
